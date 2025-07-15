@@ -27,9 +27,9 @@ FFT anvendes på lydsignalet for at finde dominerende frekvenser. Bins udenfor M
 ## Inkluderede filer
 
 - Semester_3___Projekt.pdf – Fuld rapport med metode, kommunikationsprotokol og eksperimenter  
-- TrackingRobot.py – Python-kode til robotbevægelse og håndsporing  
-- Receivercode.py – Python-kode til dekodning af MTMF-lyde og signalbekræftelse  
-- f5684076-ad0f-4ae4-9af0-f9c4d373047e.png – Illustration af systemet
+- Python code/ – Mappe med Python-kildekode til robotstyring og signalbehandling:
+  - TrackingRobot.py – Robotbevægelse og håndsporing
+  - Receivercode.py – MTMF-dekodning og signalbekræftelse
 
 ---
 
